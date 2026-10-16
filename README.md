@@ -1,14 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Fady%20Sulaiman&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20Developer%20%7C%20FinTech%20%26%20Algorithmic%20Trading&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=240&section=header&text=Fady%20Sulaiman&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%7C%20Mobile%20Developer%20%7C%20FinTech%20%26%20Trading%20Systems&descAlignY=56&descSize=16" alt="Fady Sulaiman Header" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+%26+Mobile+Apps;Crafting+Algorithmic+Trading+Systems;Turning+Complex+Logic+into+Clean+Code;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Scalable+Web+%26+Mobile+Apps;Crafting+Algorithmic+Trading+Systems;Turning+Complex+Logic+into+Clean+Code;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
+<div align="center">
+  <b>🌍 Languages / اللغات / Idiomas:</b><br/>
+  <a href="#-about-me">🇺🇸 English</a> &nbsp;•&nbsp; 
+  <a href="#-نبذة-عني">🇸🇦 العربية</a> &nbsp;•&nbsp; 
+  <a href="#-sobre-mí">🇪🇸 Español</a>
+</div>
+
 <br/>
+
+---
 
 ### 👨‍💻 About Me
 
@@ -21,10 +30,56 @@ passions: Clean Architecture, Automated Workflows, FinTech Innovation
 quote: "Code is like humor. When you have to explain it, it’s bad."
 ```
 
-- 🔭 **Current Focus:** Developing cross-platform mobile apps using **Flutter & Dart**, robust backend services, and automated trading algorithms.
+- 🔭 **Current Focus:** Developing cross-platform mobile apps using **Flutter & Dart**, robust backend systems, and automated trading algorithms.
 - ⚡ **Specialties:** Full-Stack Web Development, REST APIs, WordPress Plugin Engineering, MQL5 Trading Systems, and Server Infrastructure.
 - 🎯 **Goal:** Architecting resilient, scalable digital products and data-driven automation tools.
 - 📫 **How to reach me:** Drop me a message via the social links below!
+
+<br/>
+
+<details>
+<summary><b>🇸🇦 اضغط هنا لعرض النبذة باللغة العربية</b></summary>
+<br/>
+
+### 👨‍💻 نبذة عني
+
+```yaml
+الاسم: فادي سليمان
+المسمى: مهندس برمجيات | مطور تطبيقات ومواقع شامل (Full-Stack) | مهندس أنظمة مالية وتداول آلي
+التركيز: تطبيقات الهاتف متعددة المنصات، بنية تحتية عالية الأداء، أتمتة أنظمة التداول
+المشاريع الحالية: تطوير منظومة SmartLink وروبوتات التداول الحسابي
+الاهتمامات: البنية البرمجية النظيفة (Clean Architecture)، خطوط العمل المؤتمتة، والابتكار المالي
+```
+
+- 🔭 **التركيز الحالي:** تطوير تطبيقات الهواتف الذكية عبر **Flutter & Dart**، وتطوير خدمات خلفية قوية (Backend)، وخوارزميات التداول الآلي.
+- ⚡ **الخبرات الأساسية:** تطوير مواقع متكاملة (Full-Stack)، بناء الـ APIs، تطوير إضافات وقوالب ووردبريس المتقدمة، وبرمجة استراتيجيات التداول الآلي (MQL5 / MetaTrader 5).
+- 🎯 **الهدف:** بناء منتجات رقمية قابلة للتوسع وتعتمد على الأتمتة المتقدمة والدقة العالية.
+- 📫 **للتواصل:** يسعدني دائماً تواصلك عبر أزرار التواصل المتاحة بالأسفل!
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🇪🇸 Haz clic aquí para ver la versión en Español</b></summary>
+<br/>
+
+### 👨‍💻 Sobre Mí
+
+```yaml
+nombre: Fady Sulaiman
+rol: Desarrollador Full-Stack & Móvil | Ingeniero FinTech
+enfoque: Aplicaciones Multiplataforma, Sistemas de Alto Rendimiento y Automatización de Trading
+espacio_actual: Construcción del ecosistema SmartLink y Bots de Trading Algorítmico
+pasiones: Arquitectura Limpia, Flujos de Trabajo Automatizados, Innovación FinTech
+```
+
+- 🔭 **Enfoque Actual:** Creación de aplicaciones móviles multiplataforma con **Flutter & Dart**, servicios de backend robustos y algoritmos de trading financiero.
+- ⚡ **Especialidades:** Desarrollo Web Full-Stack, APIs REST, Desarrollo de Plugins en WordPress, Sistemas de Trading con MQL5 / MetaTrader 5 e Infraestructura de Servidores.
+- 🎯 **Objetivo:** Diseñar productos digitales escalables, resistentes y orientados a la automatización de procesos.
+- 📫 **Contacto:** ¡No dudes en escribirme a través de los enlaces de contacto al final de la página!
+
+</details>
 
 ---
 
