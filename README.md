@@ -9,18 +9,19 @@
 </div>
 
 <div align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/Language-English-0052D4?style=flat-square&logo=googletranslate&logoColor=white" alt="English"/></a>
+  <a href="#english"><img src="https://img.shields.io/badge/Language-English-0052D4?style=for-the-badge&logo=readme&logoColor=white" alt="English"/></a>
   &nbsp;
-  <a href="#-نبذة-عني"><img src="https://img.shields.io/badge/%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-4364F7?style=flat-square" alt="العربية"/></a>
+  <a href="#arabic"><img src="https://img.shields.io/badge/Language-Arabic-4364F7?style=for-the-badge&logo=readme&logoColor=white" alt="Arabic"/></a>
   &nbsp;
-  <a href="#-sobre-mí"><img src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-6FB1FC?style=flat-square&logoColor=white" alt="Español"/></a>
+  <a href="#spanish"><img src="https://img.shields.io/badge/Language-Spanish-6FB1FC?style=for-the-badge&logo=readme&logoColor=white" alt="Spanish"/></a>
 </div>
 
 <br/>
 
 ---
 
-### 👨‍💻 About Me
+<a name="english"></a>
+### 🇺🇸 About Me
 
 ```yaml
 name: Fady Sulaiman
@@ -38,11 +39,10 @@ quote: "Code is like humor. When you have to explain it, it’s bad."
 
 <br/>
 
-<details>
-<summary><b>🇸🇦 اضغط هنا لعرض النبذة باللغة العربية</b></summary>
-<br/>
+---
 
-### 👨‍💻 نبذة عني
+<a name="arabic"></a>
+### 🇸🇦 نبذة عني (باللغة العربية)
 
 ```yaml
 الاسم: فادي سليمان
@@ -57,15 +57,12 @@ quote: "Code is like humor. When you have to explain it, it’s bad."
 - 🎯 **الهدف:** بناء منتجات رقمية قابلة للتوسع وتعتمد على الأتمتة المتقدمة والدقة العالية.
 - 📫 **للتواصل:** يسعدني دائماً تواصلك عبر أزرار التواصل المتاحة بالأسفل!
 
-</details>
-
 <br/>
 
-<details>
-<summary><b>🇪🇸 Haz clic aquí para ver la versión en Español</b></summary>
-<br/>
+---
 
-### 👨‍💻 Sobre Mí
+<a name="spanish"></a>
+### 🇪🇸 Sobre Mí (En Español)
 
 ```yaml
 nombre: Fady Sulaiman
@@ -79,8 +76,6 @@ pasiones: Arquitectura Limpia, Flujos de Trabajo Automatizados, Innovación FinT
 - ⚡ **Especialidades:** Desarrollo Web Full-Stack, APIs REST, Desarrollo de Plugins en WordPress, Sistemas de Trading con MQL5 / MetaTrader 5 e Infraestructura de Servidores.
 - 🎯 **Objetivo:** Diseñar productos digitales escalables, resistentes y orientados a la automatización de procesos.
 - 📫 **Contacto:** ¡No dudes en escribirme a través de los enlaces de contacto al final de la página!
-
-</details>
 
 ---
 
