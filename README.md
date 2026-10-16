@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Fady%20Sulaiman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Apps%20%7C%20FinTech%20Systems&descAlignY=58&descSize=16" alt="Fady Sulaiman Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Fady%20Sulaiman%20alZraiee&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Apps%20%7C%20FinTech%20Systems&descAlignY=58&descSize=16" alt="Fady Sulaiman alZraiee - فادي سليمان الزريعي" width="100%"/>
 </div>
+
+<h1 align="center">Fady Sulaiman alZraiee | فادي سليمان الزريعي</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -24,7 +26,7 @@
 ### 🇺🇸 About Me
 
 ```yaml
-name: Fady Sulaiman
+name: Fady Sulaiman alZraiee (فادي سليمان الزريعي)
 role: Full-Stack & Mobile Developer | FinTech Engineer
 focus: Cross-Platform Apps, High-Performance Systems & Trading Automation
 current_workspace: Building SmartLink ecosystem & Algorithmic Trading Bots
@@ -45,7 +47,7 @@ quote: "Code is like humor. When you have to explain it, it’s bad."
 ### 🇸🇦 نبذة عني (باللغة العربية)
 
 ```yaml
-الاسم: فادي سليمان
+الاسم: فادي سليمان الزريعي (Fady Sulaiman alZraiee)
 المسمى: مهندس برمجيات | مطور تطبيقات ومواقع شامل (Full-Stack) | مهندس أنظمة مالية وتداول آلي
 التركيز: تطبيقات الهاتف متعددة المنصات، بنية تحتية عالية الأداء، أتمتة أنظمة التداول
 المشاريع الحالية: تطوير منظومة SmartLink وروبوتات التداول الحسابي
@@ -65,7 +67,7 @@ quote: "Code is like humor. When you have to explain it, it’s bad."
 ### 🇪🇸 Sobre Mí (En Español)
 
 ```yaml
-nombre: Fady Sulaiman
+nombre: Fady Sulaiman alZraiee (فادي سليمان الزريعي)
 rol: Desarrollador Full-Stack & Móvil | Ingeniero FinTech
 enfoque: Aplicaciones Multiplataforma, Sistemas de Alto Rendimiento y Automatización de Trading
 espacio_actual: Construcción del ecosistema SmartLink y Bots de Trading Algorítmico
