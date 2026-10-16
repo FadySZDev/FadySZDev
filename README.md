@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=240&section=header&text=Fady%20Sulaiman&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%7C%20Mobile%20Developer%20%7C%20FinTech%20%26%20Trading%20Systems&descAlignY=56&descSize=16" alt="Fady Sulaiman Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Fady%20Sulaiman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Apps%20%7C%20FinTech%20Systems&descAlignY=58&descSize=16" alt="Fady Sulaiman Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,10 +9,11 @@
 </div>
 
 <div align="center">
-  <b>🌍 Languages / اللغات / Idiomas:</b><br/>
-  <a href="#-about-me">🇺🇸 English</a> &nbsp;•&nbsp; 
-  <a href="#-نبذة-عني">🇸🇦 العربية</a> &nbsp;•&nbsp; 
-  <a href="#-sobre-mí">🇪🇸 Español</a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/Language-English-0052D4?style=flat-square&logo=googletranslate&logoColor=white" alt="English"/></a>
+  &nbsp;
+  <a href="#-نبذة-عني"><img src="https://img.shields.io/badge/%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-4364F7?style=flat-square" alt="العربية"/></a>
+  &nbsp;
+  <a href="#-sobre-mí"><img src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-6FB1FC?style=flat-square&logoColor=white" alt="Español"/></a>
 </div>
 
 <br/>
